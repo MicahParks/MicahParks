@@ -12,7 +12,7 @@ Clicking on affiliate links and making a purchase in the same browser gives me a
 you. If you are interested in any of these products or services, please consider using my affiliate links. Thank you!
 
 ## Hosting providers:
-Digital Ocean: [affiliate link](https://m.do.co/c/4e3aca78dba1)
+Digital Ocean: [affiliate link](https://m.do.co/c/4e3aca78dba1) (free $200 credit)
 * Advanced use cases.
 	* VPS ("Droplets").
 	* Functions as a service.
