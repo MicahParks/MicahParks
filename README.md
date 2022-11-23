@@ -2,7 +2,7 @@
 
 My personal website: [link](https://micahparks.com)
 * This has a contact form, if you'd like to report a security sensitive bug or send a kind message.
-  * Please don't contact me directly with questions about my open source projects. Make a GitHub issue.
+  * Please do not contact me directly with questions about my open source projects. Make a GitHub issue.
 
 StackOverflow: [link](https://stackoverflow.com/users/14797322/micah-parks)
 
