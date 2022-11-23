@@ -8,6 +8,7 @@ StackOverflow: [link](https://stackoverflow.com/users/14797322/micah-parks)
 <details>
 <summary>Recommendations and Affiliate Links</summary>
 <br>
+	
 # Recommendations and Affiliate Links
 These are products or services I personally use recommend to other developers. Any affiliate links are clearly marked.
 Clicking on affiliate links and making a purchase in the same browser gives me a small commission at no extra cost to
