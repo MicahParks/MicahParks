@@ -50,6 +50,9 @@ TailwindUI: [link](https://tailwindui.com/)
 * Excellent [frontend components](https://tailwindui.com/components).
 * Excellent [website templates](https://tailwindui.com/templates).
 
+FontAwesome Pro: [link](https://fontawesome.com/plans)
+* Excellent icons.
+
 GitHub Copilot: [link](https://github.com/features/copilot)
 * Shockingly good suggestions.
 * Helps implement RFCs faster.
