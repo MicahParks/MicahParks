@@ -49,7 +49,7 @@ JetBrains: [link](https://www.jetbrains.com/)
 * Best [Golang IDE](https://www.jetbrains.com/go/).
 * Best [Database tool](https://www.jetbrains.com/datagrip/) (built into all IDEs too).
 
-TailwindUI: [link](https://tailwindui.com/)
+Tailwind UI: [link](https://tailwindui.com/)
 * Excellent [frontend components](https://tailwindui.com/components).
 * Excellent [website templates](https://tailwindui.com/templates).
 
