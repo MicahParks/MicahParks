@@ -5,6 +5,6 @@ My personal website: [link](https://micahparks.com)
 
 StackOverflow: [link](https://stackoverflow.com/users/14797322/micah-parks)
 
-If you appreciate my work, consider sponsoring via [GitHub Sponsors](https://github.com/sponsors/MicahParks).
+If you appreciate my work, consider supporting me via a one-time or monthly financial contribution via [GitHub Sponsors](https://github.com/sponsors/MicahParks).
 
 I'm available for freelance or full-time work, if the opportunity is right. If you're interested in working with me, please fill out my website's contact form.
