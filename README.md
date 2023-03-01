@@ -4,3 +4,5 @@ My personal website: [link](https://micahparks.com)
 * This has a contact form, if you'd like to report a security sensitive bug or send a kind message.
 
 StackOverflow: [link](https://stackoverflow.com/users/14797322/micah-parks)
+
+I'm available for freelance or full-time work, if the opportunity is right. If you're interested in working with me, please fill out my website's contact form.
